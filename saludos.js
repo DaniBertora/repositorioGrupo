@@ -1,2 +1,2 @@
-let hola = "hola estan tocando este archivo"
-console.log("saludos totales al mundo");
+console.log("Esperando chashearlo mucho");
+console.log("Esperando crashearlo");
